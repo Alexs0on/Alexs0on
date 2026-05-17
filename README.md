@@ -1,16 +1,16 @@
-## Hi there 👋
+# Приветик, это Мичи
 
-<!--
-**Alexs0on/Alexs0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Views](https://komarev.com/ghpvc/?username=Alexs0on&color=000000&style=for-the-badge&label=VIEWS)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я самоучка... Ну и всё <3
+
+[![VS Code](https://img.shields.io/badge/Using-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+### 📂 Проекты
+
+
+
+### 📊 Статистика
+
+![Alexs0on's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexs0on&theme=dark&background=000000&fire=ff8cb5&ring=643279&currStreakLabel=ff8cb5)
