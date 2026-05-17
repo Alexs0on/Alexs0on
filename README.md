@@ -1,4 +1,4 @@
-# Приветик, это Alexs0on
+# Приветик, это Alexs0on (https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
 空木 静
 
 ![Views](https://komarev.com/ghpvc/?username=Alexs0on&color=000000&style=for-the-badge&label=VIEWS)
